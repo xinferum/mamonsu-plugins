@@ -1,8 +1,9 @@
 # Mamonsu-plugins
 Plugins for mamonsu (PostgreSQL monitoring agent)
 
-Плагины для активного агента мониторинга Zabbix mamonsu от компании PotgresPro - https://github.com/postgrespro/mamonsu
-Документация по написанию и внедрению плагинов - https://github.com/postgrespro/mamonsu/blob/master/documentation/adding_custom_plugins.md
+Плагины для mamonsu - активного агента мониторинга Zabbix от компании PotgresPro - https://github.com/postgrespro/mamonsu
+
+Документация по написанию и внедрению плагинов - [adding_custom_plugins](https://github.com/postgrespro/mamonsu/blob/master/documentation/adding_custom_plugins.md)
 
 Требуемая версия mamonsu 3+
 
